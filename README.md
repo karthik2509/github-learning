@@ -1,2 +1,2 @@
 # github-learning
-SDFSDFSDFA simple learning repository
+A simple learning repository
